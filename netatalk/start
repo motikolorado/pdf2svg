@@ -1,3 +1,0 @@
-#!/bin/sh
-avahi-daemon -D
-exec netatalk -d
